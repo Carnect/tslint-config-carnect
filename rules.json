@@ -1,5 +1,5 @@
 {
-  "extends": "airbnb",
+  "extends": "tslint-config-airbnb",
   "rules": {
     "max-line-length": [true, 150],
     "indent": [true, "spaces", 4]
