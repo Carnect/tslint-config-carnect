@@ -1,0 +1,25 @@
+{
+  "name": "tslint-config-carnect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rules.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carnect/tslint-config-carnect.git"
+  },
+  "author": "carnect",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carnect/tslint-config-carnect/issues"
+  },
+  "peerDependencies": {
+    "tslint": ">= 5.11"
+  },
+  "homepage": "https://github.com/Carnect/tslint-config-carnect#readme",
+  "dependencies": {
+    "tslint-config-airbnb": "^5.9.2"
+  }
+}
