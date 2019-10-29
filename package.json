@@ -1,5 +1,5 @@
 {
-  "name": "tslint-config-carnect",
+  "name": "@carnect/tslint-config-carnect",
   "version": "1.0.0",
   "description": "",
   "main": "rules.json",
